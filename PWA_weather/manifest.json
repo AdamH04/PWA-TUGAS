@@ -1,0 +1,21 @@
+{
+    "name": "PWA tugas",
+    "short_name": "PWA ",
+    "lang": "fr",
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "#c2f442",
+    "icons": [{
+            "src": "gundam.svg",
+            "sizes": "64x64"
+        },
+        {
+            "src": "gundam.svg",
+            "sizes": "128x128"
+        },
+        {
+            "src": "gundam.svg",
+            "sizes": "512x512"
+        }
+    ]
+}
